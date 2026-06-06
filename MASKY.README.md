@@ -1,7 +1,7 @@
 # Uppercase or Lowercase Checker
 This program asks the user to type a word and then checks whether the first character is uppercase or lowercase.
 
-# Features
+## Features
 - Asks the user to input a word
 - Checks if the first character is uppercase
 - Checks if the first character is lowercase
